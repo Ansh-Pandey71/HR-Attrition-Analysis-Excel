@@ -147,6 +147,10 @@ Job Satisfaction
 
 Attrition Status
 
+Dashboard Preview:
+<img width="926" height="510" alt="dashboard (1)" src="https://github.com/user-attachments/assets/a5b40e76-591f-42e8-b810-081ae0dffe3a" />
+
+
 📌 Dataset Source:
 IBM HR Analytics Employee Attrition Dataset
 
